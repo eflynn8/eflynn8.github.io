@@ -10,7 +10,7 @@ body {
     font-size: 16px;
     line-height: 1.6;
     color: #333;
-    background-color: #e9e1ef;
+    background-color: #faf8fb;
 }
 
 /* Center the content on the page with left padding */
@@ -35,7 +35,7 @@ p {
 
 /* Style links */
 a {
-    color: #CEBBA2;
+    color: #AAD2C1;
     text-decoration: none;
 }
 
