@@ -15,9 +15,9 @@ body {
 
 /* Center the content on the page with left padding */
 .container {
-    max-width: 800px;
+    max-width: 400px;
     margin: 0 auto;
-    padding: 20px;
+    padding: 80px;
     padding-left: 80px; /* Adjust the left padding as needed */
 }
 
