@@ -10,7 +10,7 @@ body {
     font-size: 16px;
     line-height: 1.6;
     color: #333;
-    background-color: #f8f8f8;
+    background-color: #e9e1ef;
 }
 
 /* Center the content on the page with left padding */
@@ -23,7 +23,7 @@ body {
 
 /* Style the main heading */
 h1 {
-    color: #0066cc;
+    color: #6b4786;
     font-size: 2em;
     margin-bottom: 20px;
 }
