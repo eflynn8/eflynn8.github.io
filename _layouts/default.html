@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ site.title }}</title>
+    <link rel="stylesheet" href="{{ '/assets/css/minimal.css' | relative_url }}">
+    <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
+    <link rel="icon" href="{{ 'favicon.ico' | relative_url }}" type="image/x-icon">
+
+</head>
+<body>
+    <!-- Banner Section -->
+    <header class="banner">
+        <img src="{{ page.banner_img | default: '/assets/images/pretty_pocket_2_cartoon.png' | relative_url }}" alt="Banner Image">
+    </header>
+    
+    <!-- Page Title -->
+    <h1 class="page-title">{{ site.title }}</h1>
+    
+    <!-- Main Content -->
+    <main>
+        {{ content }}
+    </main>
+    
+    <!-- Footer -->
+    <footer>
+        <p>&copy; {{ site.time | date: '%Y' }} {{ site.author }}</p>
+    </footer>
+</body>
+</html>

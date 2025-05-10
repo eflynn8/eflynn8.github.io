@@ -21,12 +21,12 @@
 title: Emma Flynn
 # email: elf152@pitt.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Welcome to my personal website! I am PhD student in the Joint CMU-University of Pittsburgh Computational Biology (CPCB) program.
+  Welcome to my personal website! I am a PhD student in the Joint CMU-University of Pittsburgh Computational Biology (CPCB) program.
   I work in Dr. David Koes' lab researching generative models for small molecule drug discovery.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: emmaflynn.bsky.social
+github_username:  eflynn8
 
 # Build settings
 theme: minimal-jekyll-theme

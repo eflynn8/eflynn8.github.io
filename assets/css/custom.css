@@ -1,0 +1,16 @@
+.banner img{ width: 100%; height: auto; }
+.propic {
+    max-width: 300px;
+    display: block;
+    margin: 0 0 1rem 0;
+}
+
+.about-container {
+    display: flex;
+    align-items: flex-start;
+    gap: 1.5rem;
+    margin-top: 1rem;
+  }
+.about-text {
+    flex: 1;
+  }
