@@ -29,7 +29,8 @@ twitter_username: emmaflynn.bsky.social
 github_username:  eflynn8
 
 # Build settings
-theme: minimal-jekyll-theme
+# theme: minimal-jekyll-theme
+layouts_dir: _layouts
 plugins:
   - jekyll-feed
 
